@@ -18,9 +18,9 @@ The most Important Emphasis should be category wise.
 6. Investigate the relationship between the availability of subtitles and the number of views for courses to determine how subtitle options may impact viewer engagement and accessibility.
 
 # Process Involved
-Developed an interactive Power BI dashboard to analyze online course trends using data from multiple EdTech platforms.
-Conducted data cleaning and transformation to ensure accurate insights into course distribution, popularity, and engagement.
-Implemented category-wise analysis, identifying trends in course types, language preferences, and subtitle impact on viewer engagement.
-Leveraged DAX and Power Query to calculate key metrics, such as average views per category and most in-demand skills.
-Provided data-driven recommendations to optimize course offerings, accessibility, and strategic content development for an EdTech startup.
+1.Developed an interactive Power BI dashboard to analyze online course trends using data from multiple EdTech platforms.
+2.Conducted data cleaning and transformation to ensure accurate insights into course distribution, popularity, and engagement.
+3.Implemented category-wise analysis, identifying trends in course types, language preferences, and subtitle impact on viewer engagement.
+4.Leveraged DAX and Power Query to calculate key metrics, such as average views per category and most in-demand skills.
+5.Provided data-driven recommendations to optimize course offerings, accessibility, and strategic content development for an EdTech startup.
 

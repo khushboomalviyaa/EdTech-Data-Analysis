@@ -16,3 +16,11 @@ The most Important Emphasis should be category wise.
 5. Determine the language preferences for each category based on viewer preferences, so that clients can optimise course accessibility and better align content with audience demand. Clients only want to analyse this data for the top 5 categories based on user preferences.
 
 6. Investigate the relationship between the availability of subtitles and the number of views for courses to determine how subtitle options may impact viewer engagement and accessibility.
+
+# Process Involved
+Developed an interactive Power BI dashboard to analyze online course trends using data from multiple EdTech platforms.
+Conducted data cleaning and transformation to ensure accurate insights into course distribution, popularity, and engagement.
+Implemented category-wise analysis, identifying trends in course types, language preferences, and subtitle impact on viewer engagement.
+Leveraged DAX and Power Query to calculate key metrics, such as average views per category and most in-demand skills.
+Provided data-driven recommendations to optimize course offerings, accessibility, and strategic content development for an EdTech startup.
+
